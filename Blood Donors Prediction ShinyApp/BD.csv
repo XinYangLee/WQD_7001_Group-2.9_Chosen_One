@@ -1,0 +1,749 @@
+Year,Month,Recency,Frequency,Monetary (volume),Month1,Class
+2001,January,74,1,250,74,Not Donating Blood
+2001,March,72,1,250,72,Not Donating Blood
+2003,December,38,1,250,38,Not Donating Blood
+2003,December,38,1,250,38,Not Donating Blood
+2003,October,40,1,250,40,Not Donating Blood
+2003,November,39,1,250,39,Not Donating Blood
+2004,December,26,5,1250,49,Donating Blood
+2004,March,35,3,750,64,Not Donating Blood
+2005,December,14,7,1750,26,Not Donating Blood
+2005,October,16,8,2000,28,Not Donating Blood
+2005,October,16,11,2750,40,Not Donating Blood
+2005,October,16,7,1750,28,Not Donating Blood
+2005,December,14,13,3250,57,Not Donating Blood
+2005,December,14,18,4500,78,Not Donating Blood
+2005,December,14,16,4000,70,Not Donating Blood
+2005,December,14,4,1000,22,Donating Blood
+2005,December,14,5,1250,26,Not Donating Blood
+2005,December,14,5,1250,28,Donating Blood
+2005,December,14,3,750,19,Donating Blood
+2005,December,14,4,1000,23,Donating Blood
+2005,October,16,12,3000,50,Not Donating Blood
+2005,December,14,5,1250,28,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,6,1500,34,Not Donating Blood
+2005,October,16,4,1000,23,Not Donating Blood
+2005,October,16,3,750,19,Not Donating Blood
+2005,December,14,4,1000,26,Not Donating Blood
+2005,November,15,16,4000,82,Not Donating Blood
+2005,December,14,8,2000,50,Donating Blood
+2005,October,16,7,1750,38,Not Donating Blood
+2005,December,14,2,500,16,Not Donating Blood
+2005,December,14,16,4000,98,Not Donating Blood
+2005,December,14,4,1000,28,Donating Blood
+2005,October,16,7,1750,39,Not Donating Blood
+2005,December,14,7,1750,47,Not Donating Blood
+2005,October,16,6,1500,35,Not Donating Blood
+2005,October,16,6,1500,35,Donating Blood
+2005,October,16,2,500,16,Not Donating Blood
+2005,October,16,3,750,21,Donating Blood
+2005,December,14,4,1000,30,Not Donating Blood
+2005,March,23,38,9500,98,Not Donating Blood
+2005,October,16,4,1000,28,Not Donating Blood
+2005,October,16,6,1500,40,Not Donating Blood
+2005,December,14,3,750,26,Not Donating Blood
+2005,May,21,16,4000,64,Not Donating Blood
+2005,December,14,6,1500,51,Not Donating Blood
+2005,May,21,13,3250,57,Not Donating Blood
+2005,December,14,2,500,21,Donating Blood
+2005,March,23,15,3750,57,Not Donating Blood
+2005,December,14,4,1000,38,Not Donating Blood
+2005,October,16,5,1250,40,Donating Blood
+2005,December,14,3,750,31,Not Donating Blood
+2005,December,14,4,1000,40,Not Donating Blood
+2005,December,14,5,1250,50,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,7,1750,72,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,7,1750,73,Not Donating Blood
+2005,October,16,4,1000,40,Not Donating Blood
+2005,October,16,10,2500,89,Not Donating Blood
+2005,May,21,2,500,21,Donating Blood
+2005,May,21,3,750,26,Not Donating Blood
+2005,October,16,8,2000,76,Not Donating Blood
+2005,May,21,3,750,26,Donating Blood
+2005,August,18,2,500,23,Not Donating Blood
+2005,March,23,5,1250,33,Not Donating Blood
+2005,March,23,8,2000,46,Not Donating Blood
+2005,October,16,3,750,34,Not Donating Blood
+2005,December,14,5,1250,64,Not Donating Blood
+2005,December,14,3,750,41,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,4,1000,45,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,2,500,26,Not Donating Blood
+2005,May,21,2,500,23,Not Donating Blood
+2005,October,16,2,500,27,Not Donating Blood
+2005,May,21,2,500,23,Not Donating Blood
+2005,May,21,2,500,23,Not Donating Blood
+2005,December,14,4,1000,57,Not Donating Blood
+2005,October,16,5,1250,60,Not Donating Blood
+2005,March,23,2,500,23,Not Donating Blood
+2005,December,14,5,1250,74,Not Donating Blood
+2005,March,23,3,750,28,Not Donating Blood
+2005,October,16,3,750,40,Not Donating Blood
+2005,October,16,7,1750,87,Donating Blood
+2005,December,14,4,1000,64,Not Donating Blood
+2005,December,14,2,500,35,Not Donating Blood
+2005,October,16,7,1750,93,Not Donating Blood
+2005,May,21,2,500,25,Not Donating Blood
+2005,December,14,3,750,52,Not Donating Blood
+2005,March,23,14,3500,93,Not Donating Blood
+2005,August,18,8,2000,95,Not Donating Blood
+2005,October,16,3,750,46,Not Donating Blood
+2005,March,23,12,3000,86,Not Donating Blood
+2005,May,21,3,750,35,Not Donating Blood
+2005,March,23,2,500,26,Not Donating Blood
+2005,March,23,2,500,26,Not Donating Blood
+2005,March,23,8,2000,64,Not Donating Blood
+2005,October,16,3,750,50,Not Donating Blood
+2005,March,23,3,750,33,Not Donating Blood
+2005,May,21,3,750,38,Not Donating Blood
+2005,March,23,2,500,28,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,5,1250,60,Not Donating Blood
+2005,March,23,4,1000,45,Not Donating Blood
+2005,May,21,4,1000,52,Not Donating Blood
+2005,April,22,1,250,22,Donating Blood
+2005,March,23,5,1250,58,Not Donating Blood
+2005,March,23,3,750,40,Not Donating Blood
+2005,March,23,3,750,41,Not Donating Blood
+2005,December,14,3,750,83,Not Donating Blood
+2005,May,21,2,500,35,Not Donating Blood
+2005,March,23,6,1500,70,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,4,1000,53,Not Donating Blood
+2005,May,21,6,1500,86,Not Donating Blood
+2005,March,23,3,750,48,Not Donating Blood
+2005,May,21,2,500,41,Not Donating Blood
+2005,May,21,3,750,64,Not Donating Blood
+2005,October,16,2,500,70,Not Donating Blood
+2005,May,21,3,750,70,Not Donating Blood
+2005,March,23,4,1000,87,Not Donating Blood
+2005,March,23,3,750,89,Not Donating Blood
+2005,March,23,2,500,87,Not Donating Blood
+2005,December,14,5,1250,14,Not Donating Blood
+2005,December,14,8,2000,26,Not Donating Blood
+2005,December,14,7,1750,35,Not Donating Blood
+2005,December,14,2,500,14,Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,2,500,14,Not Donating Blood
+2005,December,14,8,2000,46,Not Donating Blood
+2005,October,16,5,1250,27,Not Donating Blood
+2005,December,14,4,1000,26,Not Donating Blood
+2005,December,14,3,750,21,Not Donating Blood
+2005,October,16,16,4000,77,Not Donating Blood
+2005,December,14,8,2000,50,Not Donating Blood
+2005,December,14,7,1750,45,Not Donating Blood
+2005,November,15,5,1250,33,Not Donating Blood
+2005,October,16,2,500,16,Not Donating Blood
+2005,October,16,3,750,21,Not Donating Blood
+2005,October,16,4,1000,28,Not Donating Blood
+2005,October,16,15,3750,87,Not Donating Blood
+2005,October,16,14,3500,83,Not Donating Blood
+2005,October,16,10,2500,62,Not Donating Blood
+2005,October,16,3,750,23,Not Donating Blood
+2005,December,14,3,750,26,Not Donating Blood
+2005,March,23,19,4750,62,Not Donating Blood
+2005,December,14,3,750,28,Not Donating Blood
+2005,June,20,14,3500,69,Donating Blood
+2005,October,16,4,1000,33,Not Donating Blood
+2005,May,21,7,1750,38,Not Donating Blood
+2005,October,16,6,1500,50,Not Donating Blood
+2005,December,14,3,750,33,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,December,14,1,250,14,Not Donating Blood
+2005,September,17,7,1750,58,Donating Blood
+2005,December,14,3,750,35,Not Donating Blood
+2005,December,14,3,750,35,Not Donating Blood
+2005,October,16,7,1750,64,Not Donating Blood
+2005,May,21,2,500,21,Not Donating Blood
+2005,October,16,3,750,35,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,October,16,1,250,16,Not Donating Blood
+2005,December,14,2,500,29,Not Donating Blood
+2005,May,21,6,1500,48,Not Donating Blood
+2005,March,23,2,500,23,Not Donating Blood
+2005,March,23,6,1500,45,Not Donating Blood
+2005,December,14,2,500,35,Donating Blood
+2005,October,16,6,1500,81,Not Donating Blood
+2005,October,16,4,1000,58,Not Donating Blood
+2005,October,16,5,1250,71,Not Donating Blood
+2005,May,21,2,500,26,Not Donating Blood
+2005,May,21,3,750,35,Not Donating Blood
+2005,May,21,3,750,35,Not Donating Blood
+2005,March,23,8,2000,69,Not Donating Blood
+2005,May,21,3,750,38,Not Donating Blood
+2005,March,23,3,750,35,Not Donating Blood
+2005,May,21,3,750,40,Not Donating Blood
+2005,March,23,2,500,28,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,January,25,6,1500,50,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,May,21,1,250,21,Not Donating Blood
+2005,March,23,3,750,39,Not Donating Blood
+2005,May,21,2,500,33,Not Donating Blood
+2005,December,14,3,750,79,Not Donating Blood
+2005,March,23,1,250,23,Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,4,1000,52,Not Donating Blood
+2005,March,23,1,250,23,Not Donating Blood
+2005,March,23,7,1750,88,Not Donating Blood
+2005,October,16,3,750,86,Not Donating Blood
+2005,March,23,2,500,38,Not Donating Blood
+2005,May,21,2,500,52,Not Donating Blood
+2005,March,23,3,750,62,Not Donating Blood
+2006,December,2,50,12500,98,Donating Blood
+2006,December,2,20,5000,45,Donating Blood
+2006,October,4,4,1000,4,Not Donating Blood
+2006,December,2,7,1750,14,Donating Blood
+2006,December,2,9,2250,22,Donating Blood
+2006,September,5,46,11500,98,Donating Blood
+2006,October,4,23,5750,58,Not Donating Blood
+2006,December,2,10,2500,28,Donating Blood
+2006,December,2,6,1500,15,Donating Blood
+2006,December,2,5,1250,11,Donating Blood
+2006,December,2,14,3500,48,Donating Blood
+2006,December,2,15,3750,49,Donating Blood
+2006,December,2,6,1500,15,Donating Blood
+2006,December,2,3,750,4,Donating Blood
+2006,December,2,3,750,4,Donating Blood
+2006,October,4,11,2750,28,Not Donating Blood
+2006,December,2,6,1500,16,Donating Blood
+2006,December,2,6,1500,16,Donating Blood
+2006,May,9,9,2250,16,Not Donating Blood
+2006,October,4,14,3500,40,Not Donating Blood
+2006,October,4,6,1500,14,Not Donating Blood
+2006,October,4,12,3000,34,Donating Blood
+2006,October,4,5,1250,11,Donating Blood
+2006,October,4,8,2000,21,Not Donating Blood
+2006,October,4,10,2500,28,Donating Blood
+2006,October,4,10,2500,28,Donating Blood
+2006,October,4,9,2250,26,Donating Blood
+2006,December,2,16,4000,64,Not Donating Blood
+2006,December,2,8,2000,28,Donating Blood
+2006,December,2,12,3000,47,Donating Blood
+2006,October,4,6,1500,16,Donating Blood
+2006,December,2,14,3500,57,Donating Blood
+2006,October,4,7,1750,22,Donating Blood
+2006,December,2,13,3250,53,Donating Blood
+2006,December,2,5,1250,16,Not Donating Blood
+2006,December,2,5,1250,16,Donating Blood
+2006,December,2,5,1250,16,Not Donating Blood
+2006,October,4,20,5000,69,Donating Blood
+2006,October,4,9,2250,28,Donating Blood
+2006,December,2,9,2250,36,Not Donating Blood
+2006,December,2,2,500,2,Not Donating Blood
+2006,December,2,2,500,2,Not Donating Blood
+2006,December,2,2,500,2,Not Donating Blood
+2006,December,2,11,2750,46,Not Donating Blood
+2006,December,2,11,2750,46,Donating Blood
+2006,December,2,6,1500,22,Not Donating Blood
+2006,December,2,12,3000,52,Not Donating Blood
+2006,October,4,5,1250,14,Donating Blood
+2006,October,4,19,4750,69,Donating Blood
+2006,October,4,8,2000,26,Donating Blood
+2006,December,2,7,1750,28,Donating Blood
+2006,December,2,16,4000,81,Not Donating Blood
+2006,November,3,6,1500,21,Not Donating Blood
+2006,December,2,7,1750,29,Not Donating Blood
+2006,December,2,8,2000,35,Donating Blood
+2006,December,2,10,2500,49,Not Donating Blood
+2006,October,4,5,1250,16,Donating Blood
+2006,December,2,3,750,9,Donating Blood
+2006,November,3,16,4000,74,Not Donating Blood
+2006,December,2,4,1000,14,Donating Blood
+2006,October,4,7,1750,25,Not Donating Blood
+2006,December,2,4,1000,16,Not Donating Blood
+2006,December,2,4,1000,16,Not Donating Blood
+2006,October,4,17,4250,71,Donating Blood
+2006,December,2,2,500,4,Not Donating Blood
+2006,December,2,2,500,4,Donating Blood
+2006,December,2,2,500,4,Donating Blood
+2006,December,2,4,1000,16,Donating Blood
+2006,December,2,2,500,4,Not Donating Blood
+2006,December,2,2,500,4,Not Donating Blood
+2006,December,2,2,500,4,Not Donating Blood
+2006,October,4,6,1500,23,Donating Blood
+2006,December,2,4,1000,16,Not Donating Blood
+2006,December,2,4,1000,16,Not Donating Blood
+2006,December,2,4,1000,16,Not Donating Blood
+2006,December,2,6,1500,28,Donating Blood
+2006,December,2,6,1500,28,Not Donating Blood
+2006,October,4,2,500,4,Not Donating Blood
+2006,October,4,2,500,4,Not Donating Blood
+2006,October,4,2,500,4,Not Donating Blood
+2006,December,2,7,1750,35,Donating Blood
+2006,October,4,2,500,4,Donating Blood
+2006,October,4,2,500,4,Not Donating Blood
+2006,October,4,2,500,4,Not Donating Blood
+2006,October,4,2,500,4,Not Donating Blood
+2006,February,12,11,2750,23,Not Donating Blood
+2006,October,4,7,1750,28,Not Donating Blood
+2006,November,3,17,4250,86,Not Donating Blood
+2006,October,4,9,2250,38,Donating Blood
+2006,October,4,4,1000,14,Donating Blood
+2006,September,5,7,1750,26,Donating Blood
+2006,October,4,8,2000,34,Donating Blood
+2006,December,2,13,3250,76,Donating Blood
+2006,October,4,9,2250,40,Not Donating Blood
+2006,December,2,5,1250,26,Not Donating Blood
+2006,December,2,5,1250,26,Not Donating Blood
+2006,August,6,17,4250,70,Not Donating Blood
+2006,November,3,5,1250,26,Not Donating Blood
+2006,December,2,3,750,14,Not Donating Blood
+2006,December,2,10,2500,64,Not Donating Blood
+2006,October,4,5,1250,23,Donating Blood
+2006,October,4,9,2250,46,Not Donating Blood
+2006,October,4,5,1250,23,Not Donating Blood
+2006,October,4,8,2000,40,Donating Blood
+2006,December,2,12,3000,82,Not Donating Blood
+2006,March,11,24,6000,64,Not Donating Blood
+2006,December,2,7,1750,46,Donating Blood
+2006,October,4,11,2750,61,Not Donating Blood
+2006,December,2,11,2750,79,Donating Blood
+2006,December,2,3,750,16,Donating Blood
+2006,October,4,5,1250,26,Donating Blood
+2006,December,2,6,1500,41,Donating Blood
+2006,December,2,5,1250,33,Donating Blood
+2006,December,2,4,1000,26,Not Donating Blood
+2006,December,2,5,1250,34,Not Donating Blood
+2006,October,4,8,2000,46,Donating Blood
+2006,December,2,4,1000,26,Not Donating Blood
+2006,October,4,8,2000,48,Donating Blood
+2006,December,2,2,500,10,Donating Blood
+2006,October,4,5,1250,28,Not Donating Blood
+2006,December,2,12,3000,95,Not Donating Blood
+2006,December,2,2,500,10,Not Donating Blood
+2006,October,4,6,1500,35,Not Donating Blood
+2006,December,2,11,2750,88,Not Donating Blood
+2006,December,2,3,750,19,Not Donating Blood
+2006,December,2,5,1250,37,Not Donating Blood
+2006,December,2,12,3000,98,Not Donating Blood
+2006,May,9,5,1250,19,Not Donating Blood
+2006,December,2,2,500,11,Not Donating Blood
+2006,December,2,9,2250,74,Not Donating Blood
+2006,September,5,14,3500,86,Not Donating Blood
+2006,October,4,3,750,16,Not Donating Blood
+2006,October,4,3,750,16,Not Donating Blood
+2006,October,4,2,500,9,Donating Blood
+2006,October,4,3,750,16,Donating Blood
+2006,August,6,3,750,14,Not Donating Blood
+2006,December,2,2,500,11,Not Donating Blood
+2006,December,2,2,500,11,Donating Blood
+2006,December,2,2,500,11,Not Donating Blood
+2006,December,2,7,1750,58,Donating Blood
+2006,October,4,6,1500,39,Not Donating Blood
+2006,October,4,11,2750,78,Not Donating Blood
+2006,December,2,1,250,2,Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Donating Blood
+2006,December,2,1,250,2,Donating Blood
+2006,December,2,1,250,2,Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,March,11,10,2500,35,Not Donating Blood
+2006,March,11,4,1000,16,Donating Blood
+2006,October,4,5,1250,33,Donating Blood
+2006,October,4,6,1500,41,Donating Blood
+2006,December,2,3,750,22,Not Donating Blood
+2006,October,4,4,1000,26,Donating Blood
+2006,April,10,4,1000,16,Not Donating Blood
+2006,December,2,4,1000,35,Not Donating Blood
+2006,October,4,12,3000,88,Not Donating Blood
+2006,January,13,8,2000,26,Not Donating Blood
+2006,March,11,9,2250,33,Not Donating Blood
+2006,October,4,5,1250,34,Not Donating Blood
+2006,October,4,4,1000,26,Not Donating Blood
+2006,June,8,15,3750,77,Not Donating Blood
+2006,October,4,5,1250,35,Donating Blood
+2006,October,4,7,1750,52,Not Donating Blood
+2006,October,4,7,1750,52,Not Donating Blood
+2006,December,2,4,1000,35,Not Donating Blood
+2006,March,11,11,2750,42,Not Donating Blood
+2006,December,2,2,500,14,Not Donating Blood
+2006,December,2,5,1250,47,Donating Blood
+2006,May,9,8,2000,38,Donating Blood
+2006,October,4,6,1500,47,Not Donating Blood
+2006,March,11,7,1750,29,Not Donating Blood
+2006,May,9,9,2250,45,Not Donating Blood
+2006,October,4,6,1500,52,Not Donating Blood
+2006,October,4,7,1750,58,Not Donating Blood
+2006,August,6,2,500,11,Donating Blood
+2006,October,4,7,1750,58,Not Donating Blood
+2006,March,11,9,2250,38,Not Donating Blood
+2006,March,11,6,1500,26,Not Donating Blood
+2006,December,2,2,500,16,Not Donating Blood
+2006,December,2,7,1750,76,Not Donating Blood
+2006,March,11,6,1500,27,Not Donating Blood
+2006,March,11,3,750,14,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,3,750,24,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,April,10,8,2000,39,Not Donating Blood
+2006,June,8,10,2500,63,Not Donating Blood
+2006,March,11,3,750,15,Not Donating Blood
+2006,October,4,2,500,14,Not Donating Blood
+2006,December,2,4,1000,43,Not Donating Blood
+2006,June,8,9,2250,58,Not Donating Blood
+2006,June,8,8,2000,52,Donating Blood
+2006,March,11,22,5500,98,Not Donating Blood
+2006,October,4,3,750,25,Donating Blood
+2006,March,11,17,4250,79,Donating Blood
+2006,May,9,2,500,11,Not Donating Blood
+2006,October,4,5,1250,46,Not Donating Blood
+2006,March,11,12,3000,58,Not Donating Blood
+2006,July,7,12,3000,86,Not Donating Blood
+2006,March,11,2,500,11,Not Donating Blood
+2006,March,11,2,500,11,Not Donating Blood
+2006,March,11,2,500,11,Not Donating Blood
+2006,December,2,6,1500,75,Not Donating Blood
+2006,March,11,8,2000,41,Donating Blood
+2006,March,11,3,750,16,Donating Blood
+2006,February,12,13,3250,59,Not Donating Blood
+2006,December,2,3,750,35,Not Donating Blood
+2006,March,11,7,1750,37,Not Donating Blood
+2006,October,4,3,750,28,Not Donating Blood
+2006,February,12,12,3000,58,Not Donating Blood
+2006,October,4,4,1000,41,Not Donating Blood
+2006,March,11,14,3500,73,Donating Blood
+2006,December,2,2,500,23,Not Donating Blood
+2006,December,2,3,750,38,Donating Blood
+2006,October,4,5,1250,58,Not Donating Blood
+2006,October,4,4,1000,43,Donating Blood
+2006,November,3,2,500,23,Not Donating Blood
+2006,March,11,8,2000,46,Not Donating Blood
+2006,October,4,7,1750,82,Not Donating Blood
+2006,January,13,4,1000,21,Not Donating Blood
+2006,July,7,2,500,16,Not Donating Blood
+2006,October,4,5,1250,58,Not Donating Blood
+2006,October,4,5,1250,58,Not Donating Blood
+2006,October,4,4,1000,46,Not Donating Blood
+2006,October,4,3,750,34,Not Donating Blood
+2006,March,11,8,2000,48,Not Donating Blood
+2006,June,8,2,500,16,Not Donating Blood
+2006,March,11,5,1250,33,Not Donating Blood
+2006,March,11,2,500,14,Not Donating Blood
+2006,October,4,2,500,23,Not Donating Blood
+2006,May,9,2,500,16,Donating Blood
+2006,March,11,4,1000,28,Not Donating Blood
+2006,March,11,5,1250,35,Not Donating Blood
+2006,March,11,5,1250,35,Not Donating Blood
+2006,December,2,4,1000,70,Not Donating Blood
+2006,December,2,3,750,52,Not Donating Blood
+2006,March,11,5,1250,37,Donating Blood
+2006,October,4,5,1250,74,Not Donating Blood
+2006,March,11,3,750,23,Not Donating Blood
+2006,March,11,5,1250,38,Not Donating Blood
+2006,March,11,2,500,16,Not Donating Blood
+2006,February,12,9,2250,60,Not Donating Blood
+2006,May,9,1,250,9,Not Donating Blood
+2006,May,9,1,250,9,Not Donating Blood
+2006,October,4,2,500,29,Not Donating Blood
+2006,March,11,2,500,17,Not Donating Blood
+2006,March,11,9,2250,72,Donating Blood
+2006,March,11,5,1250,41,Not Donating Blood
+2006,May,9,5,1250,51,Donating Blood
+2006,March,11,4,1000,34,Not Donating Blood
+2006,December,2,2,500,41,Not Donating Blood
+2006,March,11,7,1750,62,Donating Blood
+2006,March,11,3,750,28,Not Donating Blood
+2006,March,11,7,1750,64,Not Donating Blood
+2006,March,11,1,250,11,Donating Blood
+2006,May,9,3,750,34,Not Donating Blood
+2006,March,11,6,1500,58,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,2,500,21,Not Donating Blood
+2006,March,11,5,1250,50,Not Donating Blood
+2006,March,11,2,500,21,Not Donating Blood
+2006,October,4,2,500,41,Not Donating Blood
+2006,May,9,2,500,26,Not Donating Blood
+2006,March,11,2,500,24,Not Donating Blood
+2006,October,4,3,750,71,Not Donating Blood
+2006,March,11,6,1500,71,Not Donating Blood
+2006,March,11,2,500,26,Not Donating Blood
+2006,October,4,2,500,51,Donating Blood
+2006,October,4,2,500,52,Not Donating Blood
+2006,May,9,4,1000,65,Not Donating Blood
+2006,March,11,3,750,40,Donating Blood
+2006,May,9,3,750,52,Not Donating Blood
+2006,March,11,4,1000,58,Not Donating Blood
+2006,March,11,4,1000,59,Not Donating Blood
+2006,October,4,2,500,59,Not Donating Blood
+2006,March,11,4,1000,61,Not Donating Blood
+2006,May,9,2,500,52,Not Donating Blood
+2006,May,9,2,500,52,Not Donating Blood
+2006,March,11,3,750,76,Not Donating Blood
+2006,March,11,2,500,52,Not Donating Blood
+2006,March,11,3,750,76,Not Donating Blood
+2006,March,11,2,500,70,Not Donating Blood
+2006,December,2,43,10750,86,Donating Blood
+2006,August,6,22,5500,28,Donating Blood
+2006,December,2,34,8500,77,Donating Blood
+2006,December,2,44,11000,98,Not Donating Blood
+2006,December,2,41,10250,98,Donating Blood
+2006,November,3,21,5250,42,Donating Blood
+2006,December,2,11,2750,23,Not Donating Blood
+2006,December,2,21,5250,52,Donating Blood
+2006,December,2,13,3250,32,Donating Blood
+2006,October,4,4,1000,4,Donating Blood
+2006,December,2,11,2750,26,Not Donating Blood
+2006,December,2,11,2750,28,Not Donating Blood
+2006,November,3,14,3500,35,Not Donating Blood
+2006,October,4,16,4000,38,Donating Blood
+2006,October,4,6,1500,14,Not Donating Blood
+2006,November,3,5,1250,12,Donating Blood
+2006,October,4,33,8250,98,Donating Blood
+2006,November,3,10,2500,33,Donating Blood
+2006,October,4,10,2500,28,Donating Blood
+2006,December,2,11,2750,40,Donating Blood
+2006,December,2,11,2750,41,Donating Blood
+2006,October,4,13,3250,39,Donating Blood
+2006,October,4,9,2250,28,Not Donating Blood
+2006,December,2,4,1000,11,Not Donating Blood
+2006,December,2,5,1250,16,Donating Blood
+2006,December,2,15,3750,64,Not Donating Blood
+2006,September,5,24,6000,79,Not Donating Blood
+2006,December,2,6,1500,22,Donating Blood
+2006,October,4,5,1250,16,Donating Blood
+2006,December,2,4,1000,14,Donating Blood
+2006,October,4,8,2000,28,Not Donating Blood
+2006,December,2,4,1000,14,Not Donating Blood
+2006,December,2,6,1500,26,Not Donating Blood
+2006,October,4,5,1250,16,Donating Blood
+2006,December,2,7,1750,32,Donating Blood
+2006,December,2,6,1500,26,Donating Blood
+2006,December,2,8,2000,38,Donating Blood
+2006,December,2,2,500,4,Donating Blood
+2006,December,2,6,1500,28,Donating Blood
+2006,December,2,10,2500,52,Not Donating Blood
+2006,October,4,16,4000,70,Donating Blood
+2006,October,4,2,500,4,Donating Blood
+2006,October,4,2,500,4,Donating Blood
+2006,July,7,14,3500,48,Not Donating Blood
+2006,December,2,3,750,11,Not Donating Blood
+2006,December,2,12,3000,70,Donating Blood
+2006,October,4,7,1750,32,Donating Blood
+2006,October,4,4,1000,16,Not Donating Blood
+2006,December,2,6,1500,35,Donating Blood
+2006,October,4,6,1500,28,Donating Blood
+2006,December,2,3,750,14,Not Donating Blood
+2006,December,2,4,1000,23,Not Donating Blood
+2006,October,4,4,1000,18,Not Donating Blood
+2006,September,5,6,1500,28,Not Donating Blood
+2006,October,4,6,1500,30,Not Donating Blood
+2006,November,3,8,2000,50,Not Donating Blood
+2006,October,4,11,2750,64,Donating Blood
+2006,October,4,9,2250,52,Not Donating Blood
+2006,October,4,16,4000,98,Donating Blood
+2006,July,7,10,2500,47,Not Donating Blood
+2006,October,4,14,3500,86,Not Donating Blood
+2006,December,2,9,2250,75,Not Donating Blood
+2006,October,4,6,1500,35,Not Donating Blood
+2006,October,4,9,2250,55,Not Donating Blood
+2006,October,4,6,1500,35,Donating Blood
+2006,December,2,6,1500,45,Not Donating Blood
+2006,December,2,6,1500,47,Not Donating Blood
+2006,October,4,2,500,9,Not Donating Blood
+2006,December,2,2,500,11,Donating Blood
+2006,December,2,2,500,11,Not Donating Blood
+2006,December,2,2,500,11,Donating Blood
+2006,October,4,6,1500,38,Donating Blood
+2006,November,3,4,1000,29,Donating Blood
+2006,May,9,9,2250,38,Not Donating Blood
+2006,March,11,5,1250,18,Not Donating Blood
+2006,December,2,3,750,21,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,December,2,1,250,2,Not Donating Blood
+2006,March,11,11,2750,38,Not Donating Blood
+2006,December,2,3,750,22,Not Donating Blood
+2006,May,9,11,2750,49,Donating Blood
+2006,September,5,11,2750,75,Not Donating Blood
+2006,November,3,5,1250,38,Not Donating Blood
+2006,November,3,1,250,3,Donating Blood
+2006,October,4,6,1500,43,Not Donating Blood
+2006,December,2,3,750,24,Not Donating Blood
+2006,February,12,11,2750,39,Not Donating Blood
+2006,December,2,2,500,14,Not Donating Blood
+2006,October,4,6,1500,46,Not Donating Blood
+2006,May,9,3,750,14,Not Donating Blood
+2006,October,4,2,500,13,Not Donating Blood
+2006,October,4,11,2750,95,Not Donating Blood
+2006,December,2,7,1750,77,Not Donating Blood
+2006,December,2,7,1750,77,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,1,250,4,Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,7,1750,62,Not Donating Blood
+2006,October,4,1,250,4,Not Donating Blood
+2006,October,4,4,1000,34,Donating Blood
+2006,March,11,6,1500,28,Not Donating Blood
+2006,January,13,3,750,14,Donating Blood
+2006,July,7,5,1250,35,Not Donating Blood
+2006,May,9,9,2250,54,Not Donating Blood
+2006,March,11,2,500,11,Not Donating Blood
+2006,December,2,5,1250,63,Not Donating Blood
+2006,July,7,11,2750,89,Not Donating Blood
+2006,June,8,9,2250,64,Not Donating Blood
+2006,December,2,2,500,22,Not Donating Blood
+2006,August,6,3,750,26,Not Donating Blood
+2006,February,12,15,3750,71,Not Donating Blood
+2006,January,13,3,750,16,Not Donating Blood
+2006,March,11,16,4000,89,Not Donating Blood
+2006,October,4,5,1250,58,Not Donating Blood
+2006,March,11,4,1000,27,Not Donating Blood
+2006,July,7,9,2250,89,Donating Blood
+2006,March,11,8,2000,52,Donating Blood
+2006,July,7,5,1250,52,Not Donating Blood
+2006,March,11,6,1500,41,Not Donating Blood
+2006,April,10,5,1250,38,Not Donating Blood
+2006,December,2,2,500,33,Not Donating Blood
+2006,March,11,3,750,23,Not Donating Blood
+2006,May,9,1,250,9,Not Donating Blood
+2006,October,4,2,500,30,Not Donating Blood
+2006,October,4,2,500,31,Not Donating Blood
+2006,March,11,3,750,26,Not Donating Blood
+2006,March,11,8,2000,72,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,March,11,1,250,11,Donating Blood
+2006,March,11,1,250,11,Not Donating Blood
+2006,December,2,3,750,75,Donating Blood
+2006,December,2,3,750,77,Not Donating Blood
+2006,March,11,7,1750,75,Not Donating Blood
+2006,October,4,2,500,46,Not Donating Blood
+2006,March,11,2,500,25,Not Donating Blood
+2006,March,11,3,750,37,Not Donating Blood
+2006,January,13,7,1750,76,Not Donating Blood
+2006,March,11,4,1000,74,Not Donating Blood
+2006,March,11,2,500,38,Donating Blood
+2007,February,0,13,3250,28,Donating Blood
+2007,January,1,16,4000,35,Donating Blood
+2007,January,1,24,6000,77,Not Donating Blood
+2007,January,1,12,3000,35,Not Donating Blood
+2007,February,0,3,750,4,Not Donating Blood
+2007,January,1,13,3250,47,Not Donating Blood
+2007,January,1,14,3500,58,Not Donating Blood
+2007,February,0,2,500,4,Not Donating Blood
+2007,January,1,9,2250,51,Not Donating Blood
+2007,February,0,8,2000,59,Not Donating Blood
+2007,January,1,7,1750,57,Not Donating Blood
+2007,February,0,26,6500,76,Donating Blood
+2007,January,1,10,2500,43,Donating Blood
+2007,January,1,14,3500,95,Not Donating Blood
