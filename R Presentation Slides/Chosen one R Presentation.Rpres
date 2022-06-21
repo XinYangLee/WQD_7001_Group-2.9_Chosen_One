@@ -1,0 +1,42 @@
+Group 9: Chosen One 
+========================================================
+autosize: true
+<img src="intro.png" width="800px"/>
+
+Introduction
+========================================================
+<img src="intro_2.png" width="900px" />
+
+
+OBJECTIVES & DATASET
+========================================================
+
+## Objectives
+- To predict potential blood donors.
+- To optimize blood supply in clinics and hospitals.
+- To estimate the location and demand needed to supply.
+
+
+## Dataset
+The data that our group will be using is blood transfusion data from 748 donors selected at random from a Blood Transfusion Service Center. The data source is obtained from [openml.org] (https://www.openml.org/d/1464)
+
+<img src="data.png" width="750px" />
+
+
+
+Methodology: CRISP-DM
+========================================================
+<img src="workflow.png" width="900px" />
+
+
+Results 
+========================================================
+Please click [HERE](https://leexinyang.shinyapps.io/Blood_Donation_Prediction_Model/?_ga=2.161044734.297357686.1655810972-29189471.1655810972) to access to your ShinyApp.
+
+<img src="qrcode.png" width="500px" />
+
+Future Enhancement
+========================================================
+* Contact details of each patient should be included in "Blood Donors" tab so hospital can immediately contact the blood donors.
+
+* More user-interactive features need to be added into the ShinyApp.
