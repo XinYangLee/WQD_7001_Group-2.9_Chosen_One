@@ -1,4 +1,5 @@
 # WQD 7001 Group-2.9 Chosen One - Blood Donors Prediction Model
+## Lecturer: Dr. Rohana Mahmud (RM)
 * Leong Jia Ling (S2157416)
 * Koo Siew Ling (S2139278)
 * Yam Zheng Lim (S2117653)
