@@ -18,11 +18,10 @@ OBJECTIVES & DATASET
 
 
 ## Dataset
-The data that our group will be using is blood transfusion data from 748 donors selected at random from a Blood Transfusion Service Center. The data source is obtained from [openml.org] (https://www.openml.org/d/1464)
+The project is using two types of data:
 
-<img src="data.png" width="750px" />
-
-
+* **Blood donors dataset**, obtained from https://datahub.io/
+* **Blood campaign dataset**, obtained through web scraping from https://pdn.gov.my 
 
 Methodology: CRISP-DM
 ========================================================
@@ -35,7 +34,7 @@ Please click [HERE](https://leexinyang.shinyapps.io/Blood_Donation_Prediction_Mo
 
 <img src="qrcode.png" width="500px" />
 
-Future Enhancement
+Conclusion & Future Enhancement
 ========================================================
 * Contact details of each patient should be included in "Blood Donors" tab so hospital can immediately contact the blood donors.
 
