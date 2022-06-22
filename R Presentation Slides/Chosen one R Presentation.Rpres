@@ -8,7 +8,7 @@ Introduction
 <img src="intro_2.png" width="900px" />
 
 
-OBJECTIVES & DATASET
+Objectives and Datasets
 ========================================================
 
 ## Objectives
@@ -17,10 +17,10 @@ OBJECTIVES & DATASET
 - To estimate the location and demand needed to supply.
 
 
-## Dataset
+## Datasets
 The project is using two types of data:
 
-* **Blood donors dataset**, obtained from https://datahub.io/
+* **Blood donors dataset**, obtained from https://www.openml.org/d/1464
 * **Blood donation campaign dataset**, obtained through web scraping from https://pdn.gov.my 
 
 Methodology: Cross-Industry Standard Process for Data Mining (CRISP-DM)
