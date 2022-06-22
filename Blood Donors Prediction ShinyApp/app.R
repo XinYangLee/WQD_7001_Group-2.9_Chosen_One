@@ -93,7 +93,7 @@ ui <- fluidPage(
                                         
                                         id="tabchart1", width = "250px",
                                         tabPanel("Overall Summary", plotlyOutput("plot2")),
-                                        tabPanel("Class", plotlyOutput("plot1")),
+                                        tabPanel("Percentage of Potential Blood Donors", plotlyOutput("plot1")),
                                         #add new tab:
                                         tabPanel("Blood Donors History", 
                                                  selectizeInput("years", "Years", choices = unique(df$year), selected = unique(df$year)[5]), highchartOutput("plot"))
@@ -160,7 +160,7 @@ ui <- fluidPage(
              ),
              
              # Panel 3 by Xin Yang:
-             tabPanel("Blood Donors", fluid = TRUE, icon = icon("stethoscope"),
+             tabPanel("Potential Blood Donors", fluid = TRUE, icon = icon("stethoscope"),
                       titlePanel("Blood Donors Database"),
                       sidebarLayout(
                         sidebarPanel(
