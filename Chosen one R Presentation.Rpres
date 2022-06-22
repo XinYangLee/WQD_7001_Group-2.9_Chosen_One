@@ -1,0 +1,50 @@
+Group 9: Chosen One 
+========================================================
+autosize: true
+<img src="intro.png" width="800px"/>
+
+Introduction
+========================================================
+<img src="intro_2.png" width="900px" />
+
+
+Objectives and Datasets
+========================================================
+
+## Objectives
+- To predict potential blood donors.
+- To optimize blood supply in clinics and hospitals.
+- To estimate the location and demand needed to supply.
+
+
+## Datasets
+The project is using two types of data:
+
+* **Blood donors dataset**, obtained from https://datahub.io/
+* **Blood donation campaign dataset**, obtained through web scraping from https://pdn.gov.my 
+
+Methodology: Cross-Industry Standard Process for Data Mining (CRISP-DM)
+========================================================
+* <font size="5">It is an open standard process model that can be implemented in any Data Science project irrespective of its domain. </font>
+* <font size="5"> This standard allows projects to replicate (reproducible research).</font>
+<img src="workflow.png" width="750px" />
+
+
+Data Product 
+========================================================
+[Blood Donors Prediction Model ShinyApps](https://leexinyang.shinyapps.io/Blood_Donation_Prediction_Model/?_ga=2.161044734.297357686.1655810972-29189471.1655810972) 
+
+[Github Respository](https://github.com/XinYangLee/WQD_7001_Group-2.9_Chosen_One.git).
+
+<img src="qrcode.png" width="450px" />
+
+Conclusion & Future Enhancement
+========================================================
+### Conclusion
+* The data product (ShinyApps) is intuitive and user-friendly. 
+* Changing the datasets and then prediction results will be available at your fingertips. 
+
+### Future Enhancement
+* Contact details of each patient should be included in "Blood Donors" tab so hospital or clinic can immediately contact the blood donors.
+
+* More user-interactive features need to be added into the ShinyApp.(e.g. sliders)
