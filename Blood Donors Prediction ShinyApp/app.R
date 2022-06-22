@@ -50,11 +50,11 @@ donation_location_df$state[donation_location_df$state=="KL"]<-"KUALA LUMPUR"
 
 #Panel 3 pre data processing:
 blood <- read.csv("blood-transfusion-service-center.csv", stringsAsFactors = FALSE, header = TRUE, encoding = "UTF-8")
-#add new column (Patient ID)
-blood['Patient ID'] <- c(1:748)
-#move "Patient ID" to first column
+#add new column (Donors ID)
+blood['Donors ID'] <- c(1:748)
+#move "Donors ID" to first column
 bloods <- blood%>%
-  select(`Patient ID`, everything())
+  select(`Donors ID`, everything())
 #Filter "Last blood donation" to 4 until 24 months only.
 bloods <- bloods[bloods$V1 %in% 4:24,]
 #add new column to calculate percentage
@@ -65,7 +65,7 @@ bloods['Percentage'][(bloods$Percentage != "Low"& bloods$Percentage != "High"), 
 #Rename:
 names(bloods)[names(bloods) == 'Percentage'] <- "Potential Blood Donors ?"
 names(bloods)[names(bloods) == 'V1'] <- "Months since last donation"
-names(bloods)[names(bloods) == 'ID'] <- "Patient ID"
+names(bloods)[names(bloods) == 'ID'] <- "Donors ID"
 names(bloods)[names(bloods) == 'V2'] <- "Total number of donation"
 names(bloods)[names(bloods) == 'V3'] <- "Donated Blood Volumne (cc)"
 #drop 2 columns
